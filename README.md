@@ -1,4 +1,4 @@
-## Flashloan Example Code 
+## Flashloan 
 
 This project is a step by step guide on how to get a flashloan on DY/DX by implementing simple Solidity code on Remix on a 
 Ethereum mainnet fork. With Flashloan.sol you can borrow some WETH on DY/DX using flashloan without doing anything with the amount as its just immediately paid back. With FlashLoanLeveragedYieldFarm you can use flashloan to earn more on Compund. Examples will be illustrated on Remix on Ethereum Mainnet Fork
